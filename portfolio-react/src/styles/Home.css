@@ -1,0 +1,10 @@
+.home {
+  width: 100%;
+
+  color: #143ab8;
+}
+.about img {
+  display: flex;
+  width: 25%;
+  height: 25%;
+}

@@ -6,7 +6,7 @@ import { Medium } from "react-bootstrap-icons";
 function Footer() {
   return (
     <div className="footer">
-      <div id="icon1 ">
+      <div className="profile">
         <a href="https://github.com/akash2040">
           <Github />
         </a>
@@ -19,6 +19,7 @@ function Footer() {
           <Medium />
         </a>
       </div>
+      <p>Created by Akash Chanara</p>
     </div>
   );
 }
