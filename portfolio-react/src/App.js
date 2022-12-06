@@ -5,6 +5,8 @@ import Skill from "./componets/Skill";
 import Contact from "./componets/Contact";
 import Project from "./componets/Project";
 import Navbar from "./componets/Navbar";
+import Footer from "./componets/Footer";
+
 function App() {
   return (
     <div className="App">
@@ -16,6 +18,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/project" element={<Project />} />
         </Routes>
+        <Footer />
       </Router>
     </div>
   );
