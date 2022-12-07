@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c57bec0.css",
-    "main.js": "/static/js/main.3b4f4a20.js",
-    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
-    "static/media/cap2.PNG": "/static/media/cap2.22eeec22a4403711f41b.PNG",
-    "static/media/img.jpeg": "/static/media/img.72c46622d28ac76cbb9c.jpeg",
-    "static/media/home.JPG": "/static/media/home.ea4ccfab16ac7c5c763c.JPG",
-    "static/media/Akash_Chanara_Resume .pdf": "/static/media/Akash_Chanara_Resume .214469dc2b276c4f648b.pdf",
-    "static/media/2.PNG": "/static/media/2.9791957ba06d1f56b8b6.PNG",
-    "static/media/img7.png": "/static/media/img7.e3250affb3dc873945e6.png",
-    "static/media/77.PNG": "/static/media/77.25f24dc2283f2e3d6826.PNG",
-    "static/media/Capture.PNG": "/static/media/Capture.b3f1033e038dc1fa1411.PNG",
-    "static/media/img6.png": "/static/media/img6.b74e54d4897791a51840.png",
-    "static/media/img4.png": "/static/media/img4.007e99f68b718e476aba.png",
-    "static/media/loaaa1.png": "/static/media/loaaa1.8f38a65b9ee5a0022187.png",
-    "static/media/img5.png": "/static/media/img5.d547b0709f539ca0434c.png",
-    "static/media/img9.webp": "/static/media/img9.62ac4c6baa0b075ce153.webp",
-    "static/media/img3.webp": "/static/media/img3.7a9da81b5ea6a4550127.webp",
-    "index.html": "/index.html",
-    "main.0c57bec0.css.map": "/static/css/main.0c57bec0.css.map",
-    "main.3b4f4a20.js.map": "/static/js/main.3b4f4a20.js.map",
-    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
+    "main.css": "/Portfolio-React-/static/css/main.0c57bec0.css",
+    "main.js": "/Portfolio-React-/static/js/main.70afdeea.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio-React-/static/js/787.aeca62f9.chunk.js",
+    "static/media/cap2.PNG": "/Portfolio-React-/static/media/cap2.22eeec22a4403711f41b.PNG",
+    "static/media/img.jpeg": "/Portfolio-React-/static/media/img.72c46622d28ac76cbb9c.jpeg",
+    "static/media/home.JPG": "/Portfolio-React-/static/media/home.ea4ccfab16ac7c5c763c.JPG",
+    "static/media/Akash_Chanara_Resume .pdf": "/Portfolio-React-/static/media/Akash_Chanara_Resume .214469dc2b276c4f648b.pdf",
+    "static/media/2.PNG": "/Portfolio-React-/static/media/2.9791957ba06d1f56b8b6.PNG",
+    "static/media/img7.png": "/Portfolio-React-/static/media/img7.e3250affb3dc873945e6.png",
+    "static/media/77.PNG": "/Portfolio-React-/static/media/77.25f24dc2283f2e3d6826.PNG",
+    "static/media/Capture.PNG": "/Portfolio-React-/static/media/Capture.b3f1033e038dc1fa1411.PNG",
+    "static/media/img6.png": "/Portfolio-React-/static/media/img6.b74e54d4897791a51840.png",
+    "static/media/img4.png": "/Portfolio-React-/static/media/img4.007e99f68b718e476aba.png",
+    "static/media/loaaa1.png": "/Portfolio-React-/static/media/loaaa1.8f38a65b9ee5a0022187.png",
+    "static/media/img5.png": "/Portfolio-React-/static/media/img5.d547b0709f539ca0434c.png",
+    "static/media/img9.webp": "/Portfolio-React-/static/media/img9.62ac4c6baa0b075ce153.webp",
+    "static/media/img3.webp": "/Portfolio-React-/static/media/img3.7a9da81b5ea6a4550127.webp",
+    "index.html": "/Portfolio-React-/index.html",
+    "main.0c57bec0.css.map": "/Portfolio-React-/static/css/main.0c57bec0.css.map",
+    "main.70afdeea.js.map": "/Portfolio-React-/static/js/main.70afdeea.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio-React-/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c57bec0.css",
-    "static/js/main.3b4f4a20.js"
+    "static/js/main.70afdeea.js"
   ]
 }
