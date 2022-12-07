@@ -19,30 +19,45 @@ function Skill() {
         </a>
       </div>
       <div className="list">
-        <div>Python</div>
-        <div>Java </div>
-        <div>Visual Studio</div>
-        <div> Android Studio</div>
-        <div> MySQL</div>
+        <h1>Front-End</h1>
+
         <div>HTML/CSS </div>
-        <div>Hadoop</div>
-        <div>CUDA</div>
+        <div>React</div>
+        <div>Redux</div>
         <div>Moment.js</div>
         <div>Bootstrap</div>
+        <div>React Native</div>
+        <div>YARN</div>
+        <div>TailwindCSS</div>
+        <h1>Back-End</h1>
+
+        <div> MySQL</div>
         <div>Node.js</div>
-        <div>MS Visio</div>
-        <div>Ubuntu</div>
-        <div>Oracle</div>
-        <div>JavaScript</div>
         <div> Fetch/Ajax</div>
         <div>Unit Testing/Jest </div>
         <div>Server side</div>
         <div>API</div>
         <div>ES6</div>
-        <div>Microsoft Office</div>
         <div>MongodB</div>
         <div>REST API </div>
         <div>Express</div>
+        <h1>Other Skills</h1>
+
+        <div>Python</div>
+        <div>Java </div>
+
+        <div> Android Studio</div>
+
+        <div>Hadoop</div>
+        <div>CUDA</div>
+
+        <div>MS Visio</div>
+        <div>Ubuntu</div>
+        <div>Oracle</div>
+        <div>JavaScript</div>
+
+        <div>Microsoft Office</div>
+
         <div>Heroku</div>
         <div>Git/GitHub</div>
         <div>GrapghQl</div>
