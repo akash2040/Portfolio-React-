@@ -10,24 +10,25 @@ function Home() {
         <img src={img} alt="me" />
         <h1>Hi, I am Akash Chanara</h1>
         <p>A full stack developer and like to learn new technologies </p>
+        <hr></hr>
       </div>
       <h1>Education</h1>
-      <div className="school"></div>
+      <div className="school">
+        <p>
+          <Mortarboard /> -- Bachelor in Information technology ---- University
+          of Wolverhampton(UK)
+        </p>
 
-      <p>
-        <Mortarboard /> -- Bachelor in Information technology ---- University of
-        Wolverhampton(UK)
-      </p>
+        <p>
+          <Mortarboard />
+          -- High School ------ Kathmandu Bernhardt Secondary School
+        </p>
 
-      <p>
-        <Mortarboard />
-        -- High School ------ Kathmandu Bernhardt Secondary School
-      </p>
-
-      <p>
-        <Mortarboard />
-        -- Coding Booting Camp ---- uc berkeley extension
-      </p>
+        <p>
+          <Mortarboard />
+          -- Coding Booting Camp ---- Uc Berkeley Extension
+        </p>
+      </div>
     </div>
   );
 }
