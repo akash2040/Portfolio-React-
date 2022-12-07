@@ -10,6 +10,10 @@
   text-align: left;
   font-size: 25px;
 }
+.resume a:hover {
+  color: red;
+  font-size: 30px;
+}
 .resume a {
   color: azure;
   font-size: 20px;
