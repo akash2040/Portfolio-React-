@@ -19,7 +19,7 @@ Deploy link []
 
 # HomePage
 
-![pic](./portfolio-react/src/img/react.png)
+![pic](./src/img/react.png)
 
 # AccAcceptanceCriteria
 
