@@ -1,0 +1,16 @@
+.imgall img {
+  height: 55%;
+  width: 10%;
+}
+.imgall {
+  text-align: left;
+}
+.list {
+  color: bisque;
+  text-align: left;
+  font-size: 25px;
+}
+.resume a {
+  color: azure;
+  font-size: 20px;
+}
